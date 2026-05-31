@@ -14,7 +14,7 @@ Preguntas que responde este análisis
 ¿Qué provincias presentan mayor cantidad de defunciones?
 
 
-Hallazgos principales
+Hallazgos principales 
 
 376.141 defunciones analizadas, distribuidas en 1.053 causas distintas (códigos CIE-10).
 Las enfermedades del sistema circulatorio son la principal causa de muerte (27,9% del total), seguidas por las respiratorias (20,6%).
